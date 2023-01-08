@@ -2,8 +2,8 @@
 
 Summary:
 
-1. [Short bio](https://github.com/J1n4ed/about#short-bio)
-2. [Other links](https://github.com/J1n4ed/about#other-links)
+1. [Short bio](https://j1n4ed.github.io/about#short-bio)
+2. [Other links](https://j1n4ed.github.io/about#other-links)
 
 ---
 ## 1. Short bio
