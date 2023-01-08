@@ -2,11 +2,12 @@
 
 Summary:
 
-1. [Short bio](#short_bio)
-2. [Other links](#other_links)
+- [About me](#about-me)
+  - [Short bio](#short-bio)
+  - [Other links](#other-links)
 
 ---
-[## 1. Short bio](#short_bio)
+## Short bio
 
 **Hello**, it's **me** )
 
@@ -15,7 +16,7 @@ Summary:
 _Some info to follow, add ltr_
 
 ---
-[## 2. Other links](#other_links)
+## Other links
 
 - <https://github.com/J1n4ed>
 - <https://replit.com/@GitCuri>
