@@ -1,16 +1,21 @@
 # About me
 
+Summary:
+
+1. [Short bio](https://github.com/J1n4ed/about#short-bio)
+2. [Other links](https://github.com/J1n4ed/about#other-links)
+
 ---
-## Short bio
+## 1. Short bio
 
 **Hello**, it's **me** )
 
-![](https://static.wikia.nocookie.net/memes-pedia/images/d/d3/Green_Anon.jpg/revision/latest?cb=20220529202548&path-prefix=es)
+![](/images/pepe.gif)
 
 _Some info to follow, add ltr_
 
 ---
-## Other links
+## 2. Other links
 
-- https://github.com/J1n4ed
-- https://replit.com/@GitCuri
+- <https://github.com/J1n4ed>
+- <https://replit.com/@GitCuri>
