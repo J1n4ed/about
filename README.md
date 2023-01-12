@@ -54,3 +54,4 @@ _Some info to follow, add ltr_
 
 - <https://github.com/J1n4ed>
 - <https://replit.com/@GitCuri>
+- <https://j1n4ed.github.io/about/>
